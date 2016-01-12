@@ -14,11 +14,11 @@ import cryodex.xml.XMLUtils.Element;
 
 class ScoreTable
 {
-    public static final int THRESHOLD_6 = 27;
-    public static final int THRESHOLD_7 = 67;
-    public static final int THRESHOLD_8 = 120;
-    public static final int THRESHOLD_9 = 200;
-    public static final int THRESHOLD_10 = 293;
+    public static final int THRESHOLD_6 = 30;
+    public static final int THRESHOLD_7 = 70;
+    public static final int THRESHOLD_8 = 130;
+    public static final int THRESHOLD_9 = 220;
+    public static final int THRESHOLD_10 = 350;
 }
 public class ArmadaPlayer implements Comparable<ModulePlayer>, XMLObject,
 		ModulePlayer {
